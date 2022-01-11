@@ -4,7 +4,7 @@
 pgrep -x sxhkd > /dev/null || sxhkd &
 
 #Change the monitor names at will.
-# The names can be known running a `xrandr -q` command on bash. 
+# The names can be known running a `xrandr -q` command on bash, if using Wayland, use another command.
 bspc monitor eDP -d I II III IV V 
 bspc monitor HDMI-A-0 -d VI VII VIII IX X 
 
