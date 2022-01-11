@@ -1,0 +1,66 @@
+@-moz-document url("about:home"),url(about:preferences),url("about:blank"),url("about:newtab"),url("about:privatebrowsing"){
+  /* body{background-color:#263238!important;--newtab-search-icon: transparent !important;} */
+  a,a:visited,a:hover{color:#292D31!important}
+	#newtab-search-text {
+	background-color: #000000 !important;
+	font-size: 18px !important;
+	color: #9BA8BB !important;
+	box-shadow: none !important;
+	text-align: center !important;
+	border:none !important;
+	font-weight: bold !important;
+		}
+
+.search-wrapper input {
+    --newtab-textbox-focus-boxshadow: none !important;
+    padding-left: 20px !important;
+   	padding-inline-end: 13px !important;
+  }
+  
+
+
+.search-wrapper .logo-and-wordmark {
+  margin-bottom: 60px!important;
+  padding-top: 80px!important;
+  filter: saturate(100%) opacity(100%)!important;
+}
+
+
+
+.search-button{background:none !important;}
+
+.prefs-button button {fill: #060707 !important;}
+  
+.prefs-button button:hover, .prefs-button button:focus {
+    background-color:  transparent !important; }	
+ 
+ .contentSearchSuggestionTable {display: none !important;}
+ 
+
+}
+
+
+@-moz-document url(about:newtab), url(about:home) { 
+  .outer-wrapper {
+  /*background-color: black !important; /* Background color */
+    background-image: url(1.jpg) !important; /* Image in chrome folder */
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    color: rgb(19, 19, 19) !important; /* Text color */
+  }
+
+@-moz-document url(about:home), url(about:newtab) {
+	.logo {
+		background-image: url(yes.png) !important;
+    background-size: contain !important;
+  }
+  
+  
+}}
+
+@-moz-document url(about::home), url(about:newtab){
+  .wordmark {
+    background-image: url(ninlogo.png) !important;
+    background-size: cover !important;
+  }
+}
