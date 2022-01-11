@@ -1,42 +1,32 @@
 # kronEnviroment
 Repository to save all the configuration settings I have made in Fedora 35, and what to do after a clean installation. 
 
-## Alacritty 
-Config folder of Alacritty themes, fonts and oppacity.
+### Most of the folders will include a gide or a reference link to help with the process.
 
-## Gnome
-Folder with themes, references and links of reference. 
+- **Alacritty:** Config folder of Alacritty themes, fonts and oppacity.
 
-## bspwm 
-Folder with the current config files including **bspwmrc** and **sxhkdrc**. 
+- **Gnome:** Folder with themes, references and links of reference. 
 
-## Polybar
-Folder with the current config of polybar and its launcher.sh. 
+- **bspwm:** Folder with the current config files including **bspwmrc** and **sxhkdrc**. 
 
-## Firefox and chrome folder
-Current minimal customization of Firefox and a list of extensions added and recommended.
+- **polybar:** Folder with the current config of polybar and its launcher.sh. 
 
-## Specitify 
-Customization of Spotify and how to leve it as preffered. 
+- **Firefox and chrome folder:** Current minimal customization of Firefox and a list of extensions added and recommended.
 
-## Better Discord
-Fabourite Discord themes and useful resources. 
+- **Specitify:** Customization of Spotify and how to leve it as preffered. 
 
-## Rofi
-Configuration to integrate Rofi and its utilities to **bspwm**. 
+- **Better Discord:** Favorite Discord themes and useful resources. 
 
-## Synth-shell 
-Make the terminal look beautiful and customize the command pronmpt. 
+- **Rofi:** Configuration to integrate Rofi and its utilities to **bspwm**. 
 
-## Fonts 
-Save favorite fonts and make them part of the library. 
+- **Synth-shell:** Make the terminal look beautiful and customize the command pronmpt. 
 
-## Terminal - .bshrc
-Useful aliases and customed Welcome!
+- **Fonts:** Save favorite fonts and make them part of the library. 
 
-## neofetch
-Customized neofetch with self-made ascii drawing for Fedora. 
+- **Terminal - .bshrc:** Useful aliases and customed Welcome!
 
-## Visual Studio Code
-settings.json to use personal font and better performance within bspwm. 
+- **neofetch:** Customized neofetch with self-made ascii drawing for Fedora. 
 
+- **Visual Studio Code:** settings.json to use personal font and better performance within bspwm. 
+
+**Note:** This repository will get uploaded every once in a while to make it easier to fit in the necessities or to update the customization.
