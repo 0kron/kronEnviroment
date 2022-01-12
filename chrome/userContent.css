@@ -58,7 +58,7 @@
   
 }}
 
-@-moz-document url(about::home), url(about:newtab){
+@-moz-document url(about:home), url(about:newtab){
   .wordmark {
     background-image: url(ninlogo.png) !important;
     background-size: cover !important;
